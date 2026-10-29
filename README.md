@@ -247,14 +247,6 @@ Easily customize theme highlights in `assets/css/style.css`:
 - ⚫ **Deep Charcoal:** `#1d1f21` / `#222222`
 - ⚪ **Background Soft Light:** `#f8f9fa`
 
-### 🗺️ Google Maps Integration
-To show your restaurant's exact location, update your API key in `index.html`:
-```html
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&sensor=false"></script>
-```
-
----
-
 ## 🌐 Browser Support
 
 <div align="center">
